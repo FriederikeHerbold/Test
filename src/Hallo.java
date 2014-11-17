@@ -5,7 +5,7 @@ public class Hallo {
 		// TODO Auto-generated method stub
 
 		for(int i =0;i<10;i++){
-			System.out.println("Huhu");
+			System.out.println("Hallo");
 		}
 	}
 
